@@ -12,4 +12,8 @@ function sayHiToGrandma(string){
   return "YES INDEED!"
 }
 
+function whisper(string){
+  return string.toLowerCase()
+}
+
 function 
